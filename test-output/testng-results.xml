@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9248" started-at="2019-12-10T22:41:28Z" finished-at="2019-12-10T22:41:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9248" started-at="2019-12-10T22:41:28Z" finished-at="2019-12-10T22:41:38Z">
+      <class name="com.ebay.SeleniumFramework.Login.TC001_VerifyLogin">
+        <test-method status="PASS" signature="initializeThis()[pri:0, instance:com.ebay.SeleniumFramework.Login.TC001_VerifyLogin@26be92ad]" name="initializeThis" is-config="true" duration-ms="6254" started-at="2019-12-10T14:41:28Z" finished-at="2019-12-10T14:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThis -->
+        <test-method status="PASS" signature="getLogger()[pri:0, instance:com.ebay.SeleniumFramework.Login.TC001_VerifyLogin@26be92ad]" name="getLogger" is-config="true" duration-ms="3" started-at="2019-12-10T14:41:35Z" finished-at="2019-12-10T14:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogger -->
+        <test-method status="PASS" signature="testLogger()[pri:0, instance:com.ebay.SeleniumFramework.Login.TC001_VerifyLogin@26be92ad]" name="testLogger" duration-ms="4" started-at="2019-12-10T14:41:35Z" finished-at="2019-12-10T14:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogger -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:com.ebay.SeleniumFramework.Login.TC001_VerifyLogin@26be92ad]" name="validLogin" duration-ms="2977" started-at="2019-12-10T14:41:35Z" finished-at="2019-12-10T14:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="endThis()[pri:0, instance:com.ebay.SeleniumFramework.Login.TC001_VerifyLogin@26be92ad]" name="endThis" is-config="true" duration-ms="0" started-at="2019-12-10T14:41:38Z" finished-at="2019-12-10T14:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endThis -->
+      </class> <!-- com.ebay.SeleniumFramework.Login.TC001_VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
